@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "id": "",
+      "username": "antony",
+      "email": "anton23@gmail.com",
+      "password": "werteue",
+      "confirm password": "werteue"
+    },
+    {
+      "id": "7f39",
+      "username": "kiti",
+      "email": "tony.kahare@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5bf0",
+      "username": "mercy",
+      "email": "muturi@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7f1a",
+      "username": "today",
+      "email": "today@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1b0a",
+      "username": "ear",
+      "email": "ear@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "8fde",
+      "username": "kitabu",
+      "email": "kitubu@gmail",
+      "password": "123456"
+    },
+    {
+      "id": "ee1a",
+      "username": "pen",
+      "email": "pen@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6c6d",
+      "username": "dedan",
+      "email": "dedan@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "01ed",
+      "username": "nona",
+      "email": "nona@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "0715",
+      "username": "nimo",
+      "email": "nimo@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "705f",
+      "username": "JONATHAN",
+      "email": "jonathan@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "de0f",
+      "username": "usiku",
+      "email": "pau@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "eb1c",
+      "username": "mmm",
+      "email": "mmm@gmail",
+      "password": "123456"
+    }
+  ],
+  "product": [
+    {
+      "id": "e700",
+      "name": "Sports shoe",
+      "price": 499,
+      "image": "https://imgs.search.brave.com/d65RvQLxAov-PWKza2UKBqIVaHLCv3798RSGtwMZjNQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzIxLzgxLzg2/LzM2MF9GXzEyMTgx/ODY3M182RUlENWlG/NzZWQ0NjNGFHT0xK/a2Q5NFBobmdncmUz/by5qcGc"
+    },
+    {
+      "id": "991c",
+      "name": "rubbers",
+      "price": 999,
+      "image": "https://imgs.search.brave.com/WOzmQg47yABEdgeRUej4PNdvnDJ-keqsKBFfCFByRT4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTg1/MDExNzYzL3Bob3Rv/L3Nob2VzLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1peVJn/aWR6eDN6cWNGX1hT/UzlrY3JLYW0xaXkw/VVg5bE1GTUlCS3c3/WDJZPQ"
+    },
+    {
+      "id": "b045",
+      "name": "Red Shoes",
+      "price": 1499,
+      "image": "https://imgs.search.brave.com/LBz43HPbr9qgW38YjSRTkZbyI7ert4HrwmJU7Jo5nwQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzE0LzQ5LzQy/LzM2MF9GXzE0NDk0/MjAxX1pZWDlLdkFo/T3A1YWVZMnAwZWZw/QkdCUUVaVVluTzhE/LmpwZw"
+    },
+    {
+      "id": "bbf7",
+      "name": "Leather shoes",
+      "price": 2000,
+      "image": "https://imgs.search.brave.com/0ocwwZ0MbvRdimHBczyRj0_OZww1V-3qDKUvqnQJT2w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTc0/NTYzOTUwL3Bob3Rv/L3Nob2VzLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1BZEhV/enQ0UHZWbjd0WERk/MnZ3c2tuTFN2LU4t/TXdaeVlaalN5Q2gz/dDBJPQ"
+    },
+    {
+      "id": "6f40",
+      "name": "High Hills",
+      "price": 999,
+      "image": "https://imgs.search.brave.com/dREQ7SR1JjSThk5SZMb1qBL8nbL58CVJc-grlZ7lNR4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTg0/OTY3NTYyL3Bob3Rv/L2hpZ2gtaGVlbHMt/c2hvZXMuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPXlHQlUx/bFVLNkZvWHQ2NVVq/Ni13UGR5dFlCUFI1/dGVKbndld050Y24w/blU9"
+    },
+    {
+      "id": "e085",
+      "name": "Canvas",
+      "price": 1200,
+      "image": "https://media.gettyimages.com/id/171224469/photo/canvas-shoes.jpg?s=612x612&w=0&k=20&c=oD5A61xxgna-0WNafNcZxySSwCiEnUCs5wiDJVfb2tQ="
+    },
+    {
+      "id": "0770",
+      "name": "HighTop Canvas",
+      "price": 1000,
+      "image": "https://media.gettyimages.com/id/175537625/photo/sneakers-with-clipping-path.jpg?s=612x612&w=0&k=20&c=jfv13YfaYpAIzNlLY0e1dxVeizWsacok3klJqT9_GeM="
+    },
+    {
+      "id": "4ee4",
+      "name": "Kong Kong",
+      "price": 4500,
+      "image": "https://media.gettyimages.com/id/173943143/photo/pink-patent-high-heeled-shoe-on-a-white-background.jpg?s=612x612&w=0&k=20&c=1YDlIe2oo-bs2vIifNloThk3W0bgsCnVgnPjAYq9mPA="
+    },
+    {
+      "id": "f34c",
+      "name": "Mid-rise BaketBall",
+      "price": 2999,
+      "image": "data:image/jpeg;base64,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"
+    }
+  ],
+  "cart": [
+    {
+      "0": {
+        "quantity": 1
+      },
+      "id": "c4dc"
+    }
+  ],
+  "order": [
+    {
+      "id": "23cf",
+      "fullName": "mmm",
+      "email": "pau@gmail.com",
+      "address": "mau narok",
+      "city": "nax",
+      "postalCode": "233",
+      "country": "Kenya",
+      "cardNumber": "233",
+      "expiryDate": "8/3/230",
+      "cvv": "q234",
+      "cart": [
+        {
+          "0": {
+            "quantity": 1
+          },
+          "id": "c4dc"
+        }
+      ]
+    },
+    {
+      "id": "a10c",
+      "fullName": "jacob",
+      "email": "jacob@gmail.com",
+      "address": "nairobi highway",
+      "city": "nairobi",
+      "postalCode": "200047",
+      "country": "Kenya",
+      "cardNumber": "0987",
+      "expiryDate": "11/2/2035",
+      "cvv": "k345",
+      "cart": [
+        {
+          "0": {
+            "quantity": 1
+          },
+          "id": "c4dc"
+        }
+      ]
+    }
+  ]
+}

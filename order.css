@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f0f0f0; /* Light background for the body */
+}
+
+header {
+    background-color: #4CAF50; /* Dark background for the header */
+    color: white;
+    padding: 10px 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+header nav ul li {
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: white; /* White text for navigation links */
+    text-decoration: none;
+}
+
+main .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white; /* White background for main content */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #333; /* Dark text for headings */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333; /* Dark text for labels */
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50; /* Dark background for buttons */
+    color: white; /* White text for buttons */
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: black; /* Slightly lighter background for button hover state */
+}
+
+footer {
+    background-color: #4CAF50; /* Dark background for the footer */
+    color: white; /* White text for the footer */
+    text-align: center;
+    padding: 2px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

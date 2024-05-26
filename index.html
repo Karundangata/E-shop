@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Website</title>
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.0.7/css/boxicons.min.css">
+    <script src="./index.js" defer></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>E-Shop</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Shop</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="./cart.html" id="cart-icon"><i class='bx bxs-cart-add'></i> Cart <span id="cart-count">0</span></a></li>
+                    <li><a href="#">Order</a></li>
+                    <li><a href="./signup.html">SIGN UP</a></li>
+                    <li><a href="./login.html">LOGIN</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <h2>Featured Products</h2>
+            <div class="product-grid" id="product-grid"></div>
+            <div>
+                <h2>Add New Product</h2>
+                <form id="add-product-form">
+                    <input type="text" id="product-name" placeholder="Product Name" required>
+                    <input type="number" id="product-price" placeholder="Product Price" step="0.01" required>
+                    <input type="url" id="product-image" placeholder="Product Image URL" required>
+                    <button id="" type="submit">Add Product</button>
+                </form>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 E-Shop. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
